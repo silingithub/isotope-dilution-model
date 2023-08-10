@@ -53,10 +53,10 @@ for ntimes=1:1001;
         y75=y75store;
         y100=y100store;
     else;
-        y25=y25store+normrnd(0,s,1,5);% if there are three time points, add the voise in vectors with three elements.   
-        y50=y50store+normrnd(0,s,1,5);
-        y75=y75store+normrnd(0,s,1,5);
-        y100=y100store+normrnd(0,s,1,5);
+        y25=y25store+normrnd(0,s,1,3);% if there are three time points, add the voise in vectors with three elements.   
+        y50=y50store+normrnd(0,s,1,3);
+        y75=y75store+normrnd(0,s,1,3);
+        y100=y100store+normrnd(0,s,1,3);
     end;
 
 gmat=[0.1:0.01:1.50]; % possible grazing rates per day, I make a larger range.
