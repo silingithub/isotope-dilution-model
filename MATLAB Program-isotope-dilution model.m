@@ -1,7 +1,7 @@
 clear;
 
 Y25=[3.002849737 8.066909988 22.35681189; 2.615580058 7.794190957 21.67247704; 2.881939562 8.232420866 23.65656795]; % these are N15 rates at 25% of full strength; there are 3 times points and 3 replicate at each time point
-Y50=[9.338685229 16.96355479 45.96433913; 9.360884754 20.45955453 49.65061607; 9.832918859	20.4872165	48.74773586]; % these are N15 rates at 50% of full strength; there are 3 times points and 3 replicate at each time point
+Y50=[9.338685229 16.96355479 45.96433913; 9.360884754 20.45955453 49.65061607; 9.832918859 20.4872165 48.74773586]; % these are N15 rates at 50% of full strength; there are 3 times points and 3 replicate at each time point
 Y75=[14.67321399 31.05515526 73.98568008; 14.25415075 29.65449586 73.89993511; 14.64291922 29.50779635	70.51195535]; % these are N15 rates at 75% of full strength; there are 3 times points and 3 replicate at each time point
 Y100=[24.56148709 48.27908222 110.9907294; 23.31482412 47.76151813 111.6486858; 24.95313797 43.64514589	110.3327729]; % these are N15 rates at 100% of full strength; there are 3 times points and 3 replicate at each time point
 
